@@ -59,7 +59,8 @@ To improve the Developer eXperience when developing or using the administration 
   "connection": "default",
   "info": {
     "name": "user",
-    "description": "This represents the User Model"
+    "description": "This represents the User Model",
+    "mainField": "email"
   },
   "attributes": {
     "firstname": {
